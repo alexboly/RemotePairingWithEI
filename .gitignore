@@ -1,0 +1,15 @@
+*.class
+*.pydevproject
+.metadata
+bin/**/*
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+
+# CDT-specific
+.cproject
